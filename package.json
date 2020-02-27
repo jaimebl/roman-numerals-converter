@@ -1,0 +1,15 @@
+{
+  "name": "roman-numerals-converter",
+  "version": "1.0.0",
+  "description": "Roman numerals conversion exercise",
+  "main": "conversor.js",
+  "scripts": {
+  },
+  "keywords": [
+    "roman",
+    "arabic",
+    "numerals",
+    "conversion"
+  ],
+  "author": "Jaime Bergas Laborda <jaime.bergas.laborda@gmail.com>"
+}
