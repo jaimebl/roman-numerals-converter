@@ -4,6 +4,7 @@
   "description": "Roman numerals conversion exercise",
   "main": "conversor.js",
   "scripts": {
+    "test": "jest"
   },
   "keywords": [
     "roman",
@@ -11,5 +12,8 @@
     "numerals",
     "conversion"
   ],
-  "author": "Jaime Bergas Laborda <jaime.bergas.laborda@gmail.com>"
+  "author": "Jaime Bergas Laborda <jaime.bergas.laborda@gmail.com>",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
 }
