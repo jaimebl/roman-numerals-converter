@@ -2,7 +2,7 @@
   "name": "roman-numerals-converter",
   "version": "1.0.0",
   "description": "Roman numerals conversion exercise",
-  "main": "conversor.js",
+  "main": "converter.js",
   "scripts": {
     "test": "jest"
   },
@@ -12,7 +12,7 @@
     "numerals",
     "conversion"
   ],
-  "author": "Jaime Bergas Laborda <jaime.bergas.laborda@gmail.com>",
+  "author": "Jaime Bergas Laborda <jaime84@gmail.com>",
   "devDependencies": {
     "jest": "^25.1.0"
   }
